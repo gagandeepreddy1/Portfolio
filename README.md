@@ -25,8 +25,8 @@ I am an accomplished Senior Full Stack Developer with over 7 years of hands-on e
 - **Frontend Modernization:** I built responsive Driver Profile views using React 18 (Hooks, Context, React Query).
 - **DevOps Efficiency:** I automated CI/CD pipelines with Jenkins and Docker, reducing deployment time by 60%.
 
-**ABCD, USA – Full Stack Developer**
-*Bloomington, IL | Feb 2024 – Mar 2025*
+**Ford Motor Company – Full Stack Developer**
+*Dearborn, MI | Feb 2024 – Mar 2025*
 
 - **System Design:** I designed a scalable multi-tenant data ingestion pipeline that harmonized structured CRM metadata with unstructured social media feeds.
 - **Hybrid Data Strategy:** I architected a hybrid storage solution with AWS RDS for metadata and DynamoDB for unstructured feedback.
