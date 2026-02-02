@@ -1,5 +1,5 @@
-# Gagan Deep Reddy Reddivari
-## Senior Full Stack Java Developer
+
+## Full Stack Java Developer
 
 ### Summary
 I am an accomplished Senior Full Stack Developer with over 8 years of hands-on experience designing and deploying high-performance, Java-based enterprise solutions and microservices. I specialize in architecting resilient cloud-native applications across AWS, GCP, and Azure, with specialized expertise in Golang, React 18, and Generative AI integration. I have a proven track record of reducing deployment times and optimizing system throughput through advanced system design and CI/CD automation.
