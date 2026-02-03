@@ -1,55 +1,55 @@
-
-## Full Stack Java Developer
+# Gagan Deep Reddy Reddivari
+## Senior Full Stack Java Developer
 
 ### Summary
-I am an accomplished Senior Full Stack Developer with over 8 years of hands-on experience designing and deploying high-performance, Java-based enterprise solutions and microservices. I specialize in architecting resilient cloud-native applications across AWS, GCP, and Azure, with specialized expertise in Golang, React 18, and Generative AI integration. I have a proven track record of reducing deployment times and optimizing system throughput through advanced system design and CI/CD automation.
+I am an accomplished Senior Software Developer with over 8 years of hands-on experience designing and deploying high-performance Java-based enterprise solutions. I possess deep expertise in building scalable backend architectures using Java, Spring Boot, and Hibernate, alongside cloud-native development across AWS, GCP, and Azure. I also specialize in architecting high-performance microservices in Golang, building responsive interfaces with React 18, and integrating Generative AI (LLMs and Vector Databases) into enterprise workflows.
 
 ### Technical Skills
 
 | Category | Proficiencies |
 | :--- | :--- |
-| **Languages** | Java, Golang, Python, TypeScript, JavaScript (ES6+), SQL |
-| **Backend Frameworks** | Spring Boot, Spring Cloud, Spring MVC, Gin, Echo, gRPC |
-| **Frontend & UX** | React 18 (Hooks, Context/Redux, React Query), Angular, HTML5, CSS3 |
+| **Languages & Scripting** | Java (Core/Advanced), Golang (Go), JavaScript (ES6+), TypeScript, SQL, Python (Scripting) |
+| **Backend Frameworks** | Spring Boot, Spring Cloud, Hibernate ORM, Golang (Gin, Echo), gRPC, Node.js |
+| **Frontend Technologies** | React.js (Hooks, Context, Redux, React Query), Angular, HTML5, CSS3 |
 | **AI & LLM Integration** | LangChain, LangSmith, AWS Bedrock, Vector Databases (Pinecone, FAISS, Weaviate), GenAI |
 | **Cloud & DevOps** | AWS (Lambda, RDS, S3), GCP (Pub/Sub, Functions), Azure, Docker, Kubernetes, Terraform, Jenkins |
-| **Databases** | PostgreSQL, MySQL, Oracle, MongoDB, DynamoDB, Redis |
+| **Databases** | PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, DynamoDB, Redis |
 
 ## Work Experience
 
-**Hyundai America Technical Center, Inc. – Senior Full Stack Developer**
-*Detroit, MI | Apr 2025 – Present*
+**Hyundai Motor Company – Senior Full Stack Developer**
+*USA | Apr 2025 – Present*
 
-- **System Design:** I architected a decoupled microservices ecosystem using AWS Lambda and API Gateway to manage high-concurrency vehicle personalization requests, ensuring sub-second response times.
-- **Technical Leadership:** I directed technical mentorship and established peer code review standards, accelerating the onboarding of new developers by 25%.
-- **Performance Optimization:** I productionized high-concurrency Golang services utilizing worker pools to optimize throughput for 2,000+ API requests per hour.
-- **Frontend Modernization:** I built responsive Driver Profile views using React 18 (Hooks, Context, React Query).
-- **DevOps Efficiency:** I automated CI/CD pipelines with Jenkins and Docker, reducing deployment time by 60%.
+- **System Design:** Spearheaded the development of a full-stack personalization platform, enabling secure remote configuration for vehicles across North America via web and mobile interfaces.
+- **Performance Optimization:** Productionized high-performance Golang services equipped with worker pools and back-pressure, optimizing throughput for 2,000+ API requests per hour.
+- **Frontend Engineering:** Built rich, responsive frontend views using React 18, utilizing Hooks, Context API, and React Query to manage state for Driver Profiles and Remote Features.
+- **DevOps Efficiency:** Automated CI/CD pipelines using Jenkins and Docker, reducing deployment time by 60% and achieving a zero-rollback record.
 
 **Ford Motor Company – Full Stack Developer**
-*Dearborn, MI | Feb 2024 – Mar 2025*
+*USA | Feb 2024 – Mar 2025*
 
-- **System Design:** I designed a scalable multi-tenant data ingestion pipeline that harmonized structured CRM metadata with unstructured social media feeds.
-- **Hybrid Data Strategy:** I architected a hybrid storage solution with AWS RDS for metadata and DynamoDB for unstructured feedback.
-- **Reliability:** I achieved 90% test coverage by implementing comprehensive JUnit and Karate automation suites, slashing QA cycle times and ensuring resilient service delivery.
+- **System Design:** Designed a scalable enterprise platform to ingest, analyze, and route multi-channel customer feedback data for B2B clients.
+- **Hybrid Data Strategy:** Architected a hybrid cloud storage solution utilizing AWS RDS for structured metadata and DynamoDB for unstructured feedback blobs.
+- **Reliability & Monitoring:** Created over 200 JUnit, Mockito, and Karate tests to validate complex workflows, and configured Grafana and Prometheus to monitor API latency.
 
-**Tata Consultancy Services – Lead Software Engineer**
-*India | Oct 2021 – Dec 2023*
+**Tata Consultancy Services (TCS) – Lead Software Engineer**
+*Hyderabad, India | Oct 2021 – Dec 2023*
 
-- **System Design:** I orchestrated a resilient, event-driven appointment scheduling system leveraging GCP Pub/Sub and Cloud SQL.
-- **AI Integration:** I integrated GenAI APIs to automate proactive patient notifications for rescheduling via GPT-crafted alerts.
-- **Performance:** I developed caching strategies using in-memory stores to minimize API response times.
+- **System Optimization:** Developed core backend logic in Java and Spring Boot for an intelligent appointment optimization engine that improved scheduling efficiency by 40%.
+- **Cloud Architecture:** Configured Google Cloud Pub/Sub and Cloud SQL to handle real-time concurrency and minimize delays during high-traffic periods.
+- **AI Integration:** Integrated GenAI APIs to proactively notify users of rescheduling via GPT-crafted alerts.
 
 **Infobell IT – Software Engineer**
 *India | Dec 2019 – Aug 2021*
 
-- **System Design:** I built a distributed workflow orchestration engine for healthcare claim pre-authorizations using GCP Functions.
-- **Data Enrichment:** I utilized internal NLP models for auto-classifying and enriching claim data for faster provider approvals.
+- **Workflow Automation:** Built microservices using Java, Spring Boot, and GCP Functions to automate healthcare claim pre-authorizations and dynamic case routing.
+- **Data Enrichment:** Leveraged an internal GenAI (LLM) setup for auto-classifying and enriching claim data, streamlining the decision-making process.
 
 **Wipro – Software Engineer Intern**
-*India | Jan 2018 – Nov 2019*
+*Hyderabad, India | Jan 2018 – Nov 2019*
 
-- **Full Stack Support:** I contributed to the Spring Boot backend and React.js frontend of an internal IT asset tracking portal.
+- **Full Stack Support:** Contributed to the Spring Boot backend and React.js frontend of an internal IT asset tracking portal.
+- **Cloud Integration:** Managed employee profiles using Azure SQL Database and assisted in backend deployments to Azure App Service.
 
 ## Education
 
@@ -58,10 +58,9 @@ I am an accomplished Senior Full Stack Developer with over 8 years of hands-on e
 
 ## Strengths
 
-- **Cloud-Native Architecture:** Expert in designing hybrid and multi-cloud solutions using AWS, GCP, and Azure to optimize performance and cost.
-- **Technical Leadership:** Experienced in mentoring engineering teams, establishing code standards, and driving best practices in clean architecture.
-- **GenAI Innovation:** Skilled in integrating Large Language Models (LLMs) and Vector Databases into enterprise workflows to automate complex decision-making.
-- **Performance Engineering:** Proven ability to handle high-concurrency systems, optimize API throughput, and reduce deployment latency.
+- **Cloud-Native Architecture:** Deep background in serverless development and multi-cloud infrastructure across AWS, GCP, and Azure.
+- **GenAI Innovation:** Passionate about integrating Large Language Models (LLMs) and Vector Databases into enterprise workflows.
+- **Technical Leadership:** Experienced in cross-team collaboration, code reviews, and guiding engineering best practices in Agile environments.
 
 ## Connect with me
 
