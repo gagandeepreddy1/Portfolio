@@ -32,8 +32,8 @@ I am an accomplished Senior Software Developer with over 8 years of hands-on exp
 - **Hybrid Data Strategy:** Architected a hybrid cloud storage solution utilizing AWS RDS for structured metadata and DynamoDB for unstructured feedback blobs.
 - **Reliability & Monitoring:** Created over 200 JUnit, Mockito, and Karate tests to validate complex workflows, and configured Grafana and Prometheus to monitor API latency.
 
-**Tata Consultancy Services (TCS) – Lead Software Engineer**
-*Hyderabad, India | Oct 2021 – Dec 2023*
+**Walgreens – Lead Software Engineer**
+*USA | Oct 2021 – Dec 2023*
 
 - **System Optimization:** Developed core backend logic in Java and Spring Boot for an intelligent appointment optimization engine that improved scheduling efficiency by 40%.
 - **Cloud Architecture:** Configured Google Cloud Pub/Sub and Cloud SQL to handle real-time concurrency and minimize delays during high-traffic periods.
